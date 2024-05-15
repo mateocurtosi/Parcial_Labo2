@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Mateo/1.0.0": {
+        "dependencies": {
+          "Curtosi.Mateo.23": "1.0.0"
+        },
+        "runtime": {
+          "Mateo.dll": {}
+        }
+      },
+      "Curtosi.Mateo.23/1.0.0": {
+        "runtime": {
+          "Curtosi.Mateo.23.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Mateo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Curtosi.Mateo.23/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

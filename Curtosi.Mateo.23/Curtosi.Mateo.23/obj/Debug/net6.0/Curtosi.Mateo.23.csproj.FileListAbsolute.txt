@@ -1,0 +1,11 @@
+C:\Users\mateo\source\repos\Curtosi.Mateo.23\Curtosi.Mateo.23\bin\Debug\net6.0\Curtosi.Mateo.23.deps.json
+C:\Users\mateo\source\repos\Curtosi.Mateo.23\Curtosi.Mateo.23\bin\Debug\net6.0\Curtosi.Mateo.23.dll
+C:\Users\mateo\source\repos\Curtosi.Mateo.23\Curtosi.Mateo.23\bin\Debug\net6.0\Curtosi.Mateo.23.pdb
+C:\Users\mateo\source\repos\Curtosi.Mateo.23\Curtosi.Mateo.23\obj\Debug\net6.0\Curtosi.Mateo.23.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mateo\source\repos\Curtosi.Mateo.23\Curtosi.Mateo.23\obj\Debug\net6.0\Curtosi.Mateo.23.AssemblyInfoInputs.cache
+C:\Users\mateo\source\repos\Curtosi.Mateo.23\Curtosi.Mateo.23\obj\Debug\net6.0\Curtosi.Mateo.23.AssemblyInfo.cs
+C:\Users\mateo\source\repos\Curtosi.Mateo.23\Curtosi.Mateo.23\obj\Debug\net6.0\Curtosi.Mateo.23.csproj.CoreCompileInputs.cache
+C:\Users\mateo\source\repos\Curtosi.Mateo.23\Curtosi.Mateo.23\obj\Debug\net6.0\Curtosi.Mateo.23.dll
+C:\Users\mateo\source\repos\Curtosi.Mateo.23\Curtosi.Mateo.23\obj\Debug\net6.0\refint\Curtosi.Mateo.23.dll
+C:\Users\mateo\source\repos\Curtosi.Mateo.23\Curtosi.Mateo.23\obj\Debug\net6.0\Curtosi.Mateo.23.pdb
+C:\Users\mateo\source\repos\Curtosi.Mateo.23\Curtosi.Mateo.23\obj\Debug\net6.0\ref\Curtosi.Mateo.23.dll
